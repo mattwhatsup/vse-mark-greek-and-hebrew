@@ -9,6 +9,10 @@
   "categories": [
     "Other"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mattwhatsup/vse-mark-greek-and-hebrew.git"},
+  "publisher": "MattZhou",
   "activationEvents": [],
   "main": "./dist/extension.js",
   "contributes": {
