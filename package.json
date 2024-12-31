@@ -2,7 +2,7 @@
   "name": "mark-greek-and-hebrew",
   "displayName": "mark greek and hebrew",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.96.0"
   },
@@ -17,10 +17,6 @@
   "main": "./dist/extension.js",
   "contributes": {
     "commands": [
-      {
-        "command": "mark-greek-and-hebrew.helloWorld",
-        "title": "Hello World"
-      },
       {
         "command": "mark-greek-and-hebrew.markGreekAndHebrew",
         "title": "Mark Greek and Hebrew"
